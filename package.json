@@ -16,7 +16,7 @@
   "scripts": {
     "format": "prettier . --write",
     "prep": "pnpm format && git add .",
-    "release": "pnpm format && pnpm publish"
+    "release": "pnpm publish"
   },
   "devDependencies": {
     "prettier": "^3.0.3"
