@@ -1,6 +1,6 @@
 {
   "name": "@iszf-microfrontends/prettier-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Shared Prettier configuration",
   "main": ".prettierrc.js",
   "files": [
